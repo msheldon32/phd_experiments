@@ -1,0 +1,3 @@
+all taken from exp_run_6, ran on picard08
+
+I removed headers in any file not named "output0.csv", and then concatenated all together
